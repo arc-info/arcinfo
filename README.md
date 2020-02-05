@@ -4,7 +4,15 @@
 
 # Info
 This is source code of arcinfo.
-Database for Missions are not included.
+
+server query script and Database for Missions are not included.
+
+
+# License
+
+Arcinfo is MIT License.
+
+Game "Arcaea" and all related stuffs are owned by lowiro limited.
 
 ## Build Setup
 
