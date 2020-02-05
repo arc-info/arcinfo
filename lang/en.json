@@ -1,0 +1,236 @@
+{
+  "nav": {
+    "songs": "Songs",
+    "partners": "Partners",
+    "worlds": "Worlds",
+    "missions": "Missions",
+    "multiplayer": "Multiplayer",
+    "report": "Report Bugs"
+  },
+  "lang": "Lang",
+  "loading": "Loading...",
+  "descend": "Descend",
+  "ascend": "Ascend",
+  "error": "Error!",
+  "code": "CODE:",
+  "search": {
+    "placeholder": "Enter Friend Code or Nickname...",
+    "search": "Search",
+    "results": "\"{name}\" Search Results",
+    "showing": "Showing {from}-{to} results",
+    "search_more": "Search More",
+    "invaild": {
+      "title": "Keyword Invaild",
+      "desc": "Keyword is must be less than 15 characters and more than 3 characters. Only Number and Alphabets."
+    },
+    "noresults": "Search Returned No Results. Try Other Keyword.",
+    "notice": "If the desired user hasn't updated data at all, we can't find it."
+  },
+  "view": "View",
+  "user": {
+    "recent_title": "Recent Play",
+    "best_title": "Best Plays",
+    "best_30_avg": "BEST 30 AVG.",
+    "recent_top_10_avg": "RECENT TOP 10 AVG.",
+    "immeasurable": "Immeasurable",
+    "popover": {
+      "best30": {
+        "title": "What is BEST 30?",
+        "desc": "BEST 30 Songs are affect your potential directly."
+      },
+      "target": {
+        "title": "What is TARGET?",
+        "desc": "Target Songs aren't affect your potential directly, but If you made better, These songs can affect your potential."
+      },
+      "immeasurable": {
+        "title": "Why?",
+        "desc": "It's because Arcinfo doesn't have a chart constant for this song. You can fix this click update button right after play this song more than score 9,500,000."
+      },
+      "recent_immeasurable": {
+        "title": "Why Recent Top 10 is Immeasurable?",
+        "desc": "This user hide own potential. Recent Top 10 avg. is Based on User's potential and best 30 avg."
+      },
+      "rating_sim": {
+        "title": "What is Rating Simulator?",
+        "desc": "You can use sliders to get score for desired rating. red area in top bar means score range to raise best 30."
+      }
+    },
+    "best_30": "BEST 30",
+    "target": "TARGET",
+    "others": "OTHERS",
+    "sort_by": "Sort by",
+    "sort_options": {
+      "result_rating": "Result Rating",
+      "score": "Score",
+      "detailed_rating": "Chart Constant",
+      "time_played": "Last Best Recorded",
+      "date_added": "Date Added"
+    },
+    "notfound": "User Not Found.",
+    "click_update": "Click Update Button To Get Data.",
+    "last_update": "Last Update",
+    "toast": {
+      "updated": {
+        "title": "Alert",
+        "desc": "User {user}'s Data is Updated"
+      },
+      "error": {
+        "title": "Error",
+        "desc": "Data Update is Failed. Reason: {reason} Code {code}",
+        "reason": "Unknown error. Please report to admin.",
+        "reason_601": "Minimum Update Interval is 3 minutes.",
+        "reason_404": "Can't Find user. Please try another user."
+      }
+    },
+    "rating": "RATING",
+    "time_recorded": "TIME RECORDED",
+    "clear_type": [
+      "TRACK LOST",
+      "NORMAL CLEAR",
+      "FULL RECALL",
+      "PURE MEMORY",
+      "EASY CLEAR",
+      "HARD CLEAR"
+    ],
+    "joined": "{date} Joined",
+    "analysis": "Analysis",
+    "rating_sim": "Rating Simulator",
+    "score": "Score",
+    "song_info": "Song Info",
+    "norecents": "No Recent Records.",
+    "noscores": "No Records.",
+    "newbest30avg": "NEW BEST 30 AVG.",
+    "missions": "Missions"
+  },
+  "partners": [
+    "Hikari", "Tairitsu", "Kou", "Sapphire", "Lethe", "Hikari & Tairitsu", "Tairitsu (Axium)", "Tairitsu (Grievous Lady)", "Stella",
+    "Hikari & Fisica", "Ilith", "Eto", "Luna", "Shirabe", "Hikari (Zero)", "Hikari (Fracture)", "Hikari (Summer)", "Tairitsu (Summer)",
+    "Tairitsu & Trin", "Ayu", "Eto & Luna", "Yume", "Hikari & Seine", "Saya", "Tairitsu (Grievous Lady) & Chuni Penguin", "Chuni Penguin",
+    "Nono Shibusawa", "Haruna Mishima", "Pandora Nemesis (MTA-XXX)", "Regulus (MDA-21)", "Kanae", "Hikari (Fantasia)", "Tairitsu (Sonata)",
+    "Sia", "DORO*C"
+  ],
+  "uncapped": "Awakened",
+  "analysis": {
+    "filters": {
+      "title": "Filters",
+      "difficulties": "Difficulties",
+      "ratingrange": "Chart Constant Range",
+      "ratingrange_start": "Chart Constant Range Start",
+      "ratingrange_end": "Chart Constant Range End"
+    },
+    "rating_records": {
+      "title": "Rating Records",
+      "ratings": "Ratings"
+    },
+    "song_ratings": {
+      "title": "Song Ratings",
+      "score": "Score"
+    },
+    "rank_clear": {
+      "title": "Rank/Clear Types",
+      "rank": "Rank",
+      "clear_type": "Clear Type"
+    }
+  },
+  "under_construction": "Under Construction",
+  "submit": "Submit",
+  "favorites": "Favorites",
+  "songs": {
+    "title": "Song List",
+    "sortby": "Sort by",
+    "categories": "Categories",
+    "sort_options": {
+      "default": "Default",
+      "level_pst": "Level (PST)",
+      "level_prs": "Level (PRS)",
+      "level_ftr": "Level (FTR)",
+      "bpm": "BPM",
+      "name": "Name",
+      "artist": "Artist"
+    },
+    "category": {
+      "packs": "Packs",
+      "level": "Level",
+      "none": "None"
+    }
+  },
+  "missions": {
+    "title": "Missions",
+    "placeholder": "Enter Friend Code of Yourself...",
+    "go": "GO",
+    "select": "Select a Mission",
+    "recent": "Recent Played Mission",
+    "view_not_available": "Include Not Available Missions",
+    "expired_in": "Ends on: {time}",
+    "starts_in": "Starts on: {time}",
+    "not_available": "Not Available",
+    "type": "Mission Type",
+    "type_health": "Health",
+    "type_conditions": "Conditions",
+    "pure_shiny": "Shiny PURE",
+    "conditions": {
+      "conditions": "Conditions",
+      "range": "{start} to {end}",
+      "more": "More than {value}",
+      "less": "Less than {value}",
+      "or": "or",
+      "none": "No Conditions",
+      "score": "Score",
+      "shiny_perfect_count": "Shiny PURE",
+      "perfect_count": "PURE",
+      "near_count": "FAR",
+      "miss_count": "LOST",
+      "health": "HEALTH",
+      "clear_type": "CLEAR TYPE"
+    },
+    "health": {
+      "health": "Health",
+      "stage_cleared": "Stage Cleared",
+      "changes": "Health Changes",
+      "stage_changes": "Health Change on This Stage",
+      "song_changes": "Health Change on This Song",
+      "left": "{health} Left",
+      "damaged": "{health} Damaged!",
+      "healed": "{health} Healed!",
+      "no_diff": "No Differences.",
+      "start_health": "Start Health"
+    },
+    "stages": "Stages",
+    "stage": "Stage {num}",
+    "stage_upper": "STAGE {num}",
+    "clear_conditions": "Clear Conditions",
+    "stage_clear_conditions": "Stage Clear Conditions",
+    "songs": "Songs",
+    "ranking": "RANKING",
+    "start": "START",
+    "check": "CHECK",
+    "time_limit": "Time Limit",
+    "record": "Mission Record",
+    "records": "Records",
+    "no_records": "No Records",
+    "playing": "Playing",
+    "cleared": "Cleared",
+    "failed": "Failed",
+    "time_stage_started": "Stage Started",
+    "mission_health": "MISSION HEALTH",
+    "warning": {
+      "title": "Warning",
+      "intro": "Before you start mission, You have to read this carefully.",
+      "one":  "After you click START Button below, You have to play song and see result on Arcaea in 3min 30sec.",
+      "two": "After you seeing result on Arcaea(Seeing result means when Retry and Go Back button is appeared), You have to click CHECK button on mission page.",
+      "three": "If you don't, Your result isn't recorded and your mission is automatically failed.",
+      "four": "If you cleared selected mission, Your results are recorded on ranking, and you'll get marked as clear in your profile.",
+      "outtro": "When ready, click START button and play!",
+      "cancel": "Cancel"
+    },
+    "target_songs": "Target Songs",
+    "notfound": "Player not found. Try update user info and retry.",
+    "find": "Find",
+    "click_to_see": "Click Song name to View Conditions for that song.",
+    "time_limit": "This error is due to time limit. Please refresh this page.",
+    "rankings": "{mission} Rankings",
+    "rankings_of": "{from}-{to} of {all}",
+    "my_rank": "My Rank",
+    "rank_all": "Overall Ranking"
+  }
+}

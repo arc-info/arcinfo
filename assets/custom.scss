@@ -1,0 +1,12 @@
+$theme-colors: (
+  "arcpink": rgb(244, 143, 177),
+  "transparent": rgba(0, 0, 0, 0),
+  "arcpink50": rgba(244, 143, 177, 0.5),
+  'purple': #9c27b0
+);
+
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
+
+
+
